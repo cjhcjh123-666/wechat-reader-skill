@@ -1,0 +1,7 @@
+interface:
+  display_name: "WeChat Rankmaker OCR"
+  short_description: "微信榜单图片 OCR 统计与出图"
+  default_prompt: "Use $wechat-rankmaker-ocr to analyze a WeChat album link and chart maker/rightsholder appearances."
+
+policy:
+  allow_implicit_invocation: true
